@@ -1,0 +1,2 @@
+get_all : https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?lang=fr
+get_printable_doc: https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&type=show_document&highlight_docid=atf://85-IV-250:fr&print=yes

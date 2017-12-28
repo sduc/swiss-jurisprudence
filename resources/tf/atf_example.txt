@@ -1,0 +1,1718 @@
+
+
+
+   
+   
+
+
+<!DOCTYPE html>
+
+<html lang="fr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width initial-scale=1">
+    <link rel="icon" href="/modules/tfl-internet-templates/images/favicon.ico"/>
+
+    
+      <title>108 IV 25</title>
+      
+    
+              <link rel="stylesheet" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/css/master.css" type="text/css" /><!-- do not add a attribute 'title' here, as Firefox will stop working for media print! -->
+            <link rel="stylesheet" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/css/print.css" type="text/css" media="print" />
+      <!--[if IE 6]><link href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/css/ie_win_pos_abs.css" rel="stylesheet" type="text/css" media="screen"><![endif]-->
+      
+    <link type="text/css" rel="stylesheet" media="screen" href="/modules/tfl-internet-templates/css/styles.css" />
+
+    
+    <style media="print" type="text/css">
+        @media print{
+            .body .size1of3{
+                display: none;
+            }
+            .head .grid_left{
+                display: none;
+            }
+            .access-a, .form-search, .define-admin {
+                display: none !important;
+            }
+            body{
+                font-family: Arial, sans-serif;
+                font-size: 12px !important;
+            }
+            p, li, div, span{
+
+            }
+            a{
+                color: black;
+                text-decoration: none;
+            }
+            .modContent h1:first-child {
+                margin-top: .071em;
+                font-weight: normal;
+            }
+            .modContent h2:first-child {
+                margin-top: .429em;
+            }
+            .modContent h2:first-child strong{
+                font-weight: normal;
+            }
+            .richtext .leg {
+                line-height: 1.538;
+                margin-bottom: 5px;
+            }
+            .retour{
+                display: none;
+            }
+            body .desktop-logo{
+
+            }
+            body .mobile-logo{
+                display: none !important;
+            }
+
+        }
+
+    </style>
+    <script type="text/javascript">
+
+        var msg="Nous vous remercions de bien vouloir accepter les conditions d'utilisation.";
+
+    </script>
+
+<script type="text/javascript">
+var contextJsParameters={contextPath:"",lang:"fr",uilang:"fr",siteUuid:"1b49b4f5-ee91-476d-beb4-bb6e8025abad",wcag:true,ckeCfg:""}; var CKEDITOR_BASEPATH="/modules/ckeditor/javascript/"; var scayt_custom_params=new Array(); scayt_custom_params['sLang']='fr_FR';
+</script>
+<script id="staticAssetJavascript0" type="text/javascript" src="/generated-resources/686d84bc26f16147f84065e29475481.min.js"></script>
+<script id="staticAssetAggregatedJavascriptList0" type="text/javascript">
+var jASAJ=jASAJ || new Array();
+jASAJ.push('/modules/jquery/javascript/jquery.min.js');
+jASAJ.push('/modules/assets/javascript/jquery.jahia.min.js');
+</script>
+
+</head>
+
+<body class="skinLeft content-page" id='content-page'>
+
+<div class="wrapper overflowx">
+    <div class='opacity'></div>
+    <div class="bodywrapper">
+        
+
+
+        <a class="hiddenanchor" name="start" aria-hidden="true"></a>
+        <header role="banner" id="banner" class="head">
+            <div class="line line_head">
+                <div class="unit size1of3">
+                    <div class="mod modLogo" data-connectors="MasterSlave1Master">
+                        <div class="inner">
+                            <a href="/fr/index.htm" target="_top" title="Page d'accueil" accesskey="0" class='desktop-logo'>
+    <img src="/files/live/sites/bger/files/images/de/schweizerisches-bundesgericht-logo.gif" alt="Page d'accueil"  width="300" height="189"/>
+</a>
+
+<a href="/fr/index.htm" target="_top" title="Page d'accueil" accesskey="0" class='mobile-logo'>
+    <img src="/files/live/sites/bger/files/images/de/mobile-schweizerisches-bundesgericht-logo.gif" alt="Page d'accueil"  width="71" height="58"/>
+</a><div class="clear"></div><div class="clear"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="unit size2of3 lastUnit grid_left">
+                    <div class="line">
+                        <div class="unit size2of3">
+                            <div class="mod modNavService">
+                                <div class="inner">
+
+                                    <button href="#" class="nav-mobile-icon" aria-haspopup='true' aria-expanded='false' title="le menu">
+                                        <span>menu</span>
+                                    </button>
+                                    <div class="nav">
+                                        <nav aria-label="Navigation secondaire" id='mobile-navigation'>
+    <ul class='block' role="menu">
+        <div class='home-menu-list'>
+            
+                <li class="item">
+                    
+                    <a class="l1" href="/fr/index/juridiction.htm">
+                        <span>Jurisprudence</span>
+                    </a>
+                    <ul class='sub'>
+                        
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht.htm">
+                                        <span>Jurisprudence (gratuit)</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/ext/eurospider/live/fr/php/clir/http/start_fr.html">
+                                                            <span>ATF et arrêts CrEDH</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/ext/eurospider/live/fr/php/aza/http/index_aza.php?lang=fr&mode=index&search=false">
+                                                            <span>Liste des nouveautés</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr">
+                                                            <span>Autres arrêts dès 2000</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht/jurisdiction-recht-urteilsbestellung.htm">
+                                                            <span>Commande d'un arrêt</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht/juridiction-digitalisation.htm">
+                                                            <span>Numérotation des dossiers</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht/jurisdiction-recht-suchstrategie1954.htm">
+                                                            <span>Stratégie de recherche</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr">
+                                        <span>Arrêts principaux (ATF)</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/ext/eurospider/live/fr/php/login/http/main.php?lang=fr">
+                                        <span>Recherche avancée pour abonnés</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/ext/eurospider/live/fr/php/expert/http/index_aza.php?lang=fr&mode=index&search=true">
+                                                            <span>Liste des nouveautés</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht-kostenpflichtige-suche/jurisdiction-recht-zeitschriftenliste.htm">
+                                                            <span>Liste des revues</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht-kostenpflichtige-suche/jurisdiction-recht-bge-kostenpflichtig-gratis.htm">
+                                                            <span>Stratégie de recherche</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-abonnemente.htm">
+                                        <span>Abonnements/Commandes</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/juridiction/jurisdiction-inherit-template/federal-meeting.htm">
+                                        <span>Séances</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/federal-meeting/federal-meeting-newsletter.htm">
+                                                            <span>Abonnement à la liste des séances</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-jurivoc-home.htm">
+                                        <span>Jurivoc - Aide à la traduction</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/ext/jurivoc/live/fr/jurivoc/Jurivoc.jsp?interfaceLanguage=french">
+                                                            <span>Consultation du thesaurus Jurivoc</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-jurivoc-home/jurisdiction-jurivoc-more.htm">
+                                                            <span>En savoir plus sur Jurivoc</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-jurivoc-home/jurisdiction-jurivoc-descriptor.htm">
+                                                            <span>Demande de complément à Jurivoc (descripteur)</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-jurivoc-home/jurisdiction-jurivoc-nodescriptor.htm">
+                                                            <span>Demande de complément à Jurivoc (non-descripteur)</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-jurivoc-home/jurisdiction-jurivoc-upload/jurisdiction-jurivoc-download-accept.htm">
+                                                            <span>Téléchargement de Jurivoc</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/home/juridiction/jurisdiction-jurivoc-home/jurisdiction-jurivoc-update.html">
+                                                            <span>Liste des modifications de Jurivoc</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-zitierregeln.htm">
+                                        <span>Règles de citation</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-elektronische-beschwerde.htm">
+                                        <span>Recours électronique</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-echange-ecritures.htm">
+                                        <span>Echange d'écritures et observations volontaires</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-certifications.htm">
+                                        <span>Attestations de force de chose jugée / attestations</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                    </ul>
+                </li>
+            
+                <li class="item">
+                    
+                    <a class="l1" href="/fr/index/federal.htm">
+                        <span>Tribunal fédéral</span>
+                    </a>
+                    <ul class='sub'>
+                        
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/federal-gericht.htm">
+                                        <span>Organisation du tribunal</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-gericht/federal-gerichts-abteilungen.htm">
+                                                            <span>Organisation</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-gericht/federal-gerichts-geschaeftsverteilung.htm">
+                                                            <span>Compétences des Cours</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-gericht/federal-gerichts-gerichtsorganigram.htm">
+                                                            <span>Organigramme</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/federal-rechtspflege.htm">
+                                        <span>Organisation judiciaire</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/federal-richter.htm">
+                                        <span>Juges et personnel</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-bundesrichter.htm">
+                                                            <span>Juges fédéraux</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-nebenamtlicherichter.htm">
+                                                            <span>Juges suppléants</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-richter/federal-generalsekretaer.htm">
+                                                            <span>Secrétaire général</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-gerichtsschreiber.htm">
+                                                            <span>Greffiers</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-richter/federal-richter-dienste.htm">
+                                                            <span>Secrétariat général & Services</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/federal-status.htm">
+                                        <span>Historique</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-status/federal-geschichte.htm">
+                                                            <span>Historique Tribunal fédéral</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-status/federal-status-geschichte.htm">
+                                                            <span>Historique TFA (1917-2006)</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-status/federal-richter-altebundesrichter.htm">
+                                                            <span>Anciens juges fédéraux TF</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-status/federal-insurance-richter-altebundesrichter.htm">
+                                                            <span>Anciens juges fédéraux TFA (1917-2006)</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/contact/contact-inherit-template/contact-adressen-bger.htm">
+                                        <span>Contact/Visite</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                                <li>
+                                                                    <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch.htm">
+                                                                        <span>Visite TF  Lausanne</span>
+                                                                    </a>
+                                                                    
+                                                                        <ul class="fifth-level">
+                                                                            
+                                                                                        <li>
+                                                                                            <a class="l5" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch/contact-federal-besuch-anmeldeformular-einzelperson.htm">
+                                                                                                <span>Formulaire d'inscription individuelle</span>
+                                                                                            </a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a class="l5" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch/contact-federal-besuch-anmeldeformular.htm">
+                                                                                                <span>Formulaire d'inscription pour groupes</span>
+                                                                                            </a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a class="l5" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch/contact-federal-besuch-zufahrt.htm">
+                                                                                                <span>Accès</span>
+                                                                                            </a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a class="l5" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch/contact-federal-virtual-tour.htm">
+                                                                                                <span>Visite virtuelle Lausanne</span>
+                                                                                            </a>
+                                                                                        </li>
+                                                                                    
+                                                                        </ul>
+                                                                    
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch.htm">
+                                                                        <span>Visite TF Lucerne</span>
+                                                                    </a>
+                                                                    
+                                                                        <ul class="fifth-level">
+                                                                            
+                                                                                        <li>
+                                                                                            <a class="l5" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch/contact-insurance-besuch-anmeldeformular-einzelperson.htm">
+                                                                                                <span>Formulaire d'inscription individuelle</span>
+                                                                                            </a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a class="l5" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch/contact-insurance-besuch-anmeldeformular.htm">
+                                                                                                <span>Formulaire d'inscription pour groupes</span>
+                                                                                            </a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a class="l5" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch/contact-insurance-besuch-zufahrt.htm">
+                                                                                                <span>Accès</span>
+                                                                                            </a>
+                                                                                        </li>
+                                                                                    
+                                                                                        <li>
+                                                                                            <a class="l5" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch/contact-insurance-virtual-tour.htm">
+                                                                                                <span>Visite virtuelle Lucerne</span>
+                                                                                            </a>
+                                                                                        </li>
+                                                                                    
+                                                                        </ul>
+                                                                    
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-feedback.htm">
+                                                                        <span>Feedback</span>
+                                                                    </a>
+                                                                    
+                                                                </li>
+                                                            
+                                                                <li>
+                                                                    <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-newsletter.htm">
+                                                                        <span>Newsletter</span>
+                                                                    </a>
+                                                                    
+                                                                </li>
+                                                            
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/home/federal/gericht-elektronischer-verkehr.html?summary=true">
+                                        <span>Communication électronique</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/federal-virtual-tour.htm">
+                                        <span>Visite virtuelle</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/federal-publikationen.htm">
+                                        <span>Publications</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-publikationen/federal-pub-geschaeftsbericht.htm">
+                                                            <span>Rapports de gestion depuis 1855</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht.htm">
+                                                            <span>Arrêts du Tribunal fédéral</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-publikationen/federal-richter-publikationen.htm">
+                                                            <span>Contributions scientifiques du Tribunal fédéral</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-publikationen/federal-pub-weitere.htm">
+                                                            <span>Autres publications</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/jurisdiction-biblio.htm">
+                                        <span>Bibliothèques</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/jurisdiction-biblio/biblio-catalog.htm">
+                                                            <span>Catalogues</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/jurisdiction-biblio/biblio-biblio.htm">
+                                                            <span>Présentation et contacts</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/jurisdiction-biblio/biblio-public.htm">
+                                                            <span>Publications</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/insurance-federal-jobs.htm">
+                                        <span>Emplois</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/jurisdiction-haager-richternetzwerk.htm">
+                                        <span>Réseau international de juges de La Haye</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/federal-links.htm">
+                                        <span>Liens</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/jurisdiction-links-schweizerische-gerichte.htm">
+                                                            <span>Tribunaux suisses et jurisprudence</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/press-jurisdiction-links-europaeische-gerichtshoefe.htm">
+                                                            <span>Cours européennes</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/jurisdiction-links-auslaendische-gerichte.htm">
+                                                            <span>Tribunaux étrangers</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/content-links-organisationen.htm">
+                                                            <span>Organisations internationales</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/federal-links-bundesversammlung.htm">
+                                                            <span>Assemblée fédérale</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/federal-links-bundesrat.htm">
+                                                            <span>Conseil fédéral</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/press-jurisdiction-links-verwaltungen.htm">
+                                                            <span>Autorités et administrations suisses</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/press-jurisdiction-links-bundesrecht.htm">
+                                                            <span>Législation</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/press-jurisdiction-links-universitaeten.htm">
+                                                            <span>Bibliothèques, instituts et universités</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/federal/federal-inherit-template/federal-links/jurisdiction-links-divers.htm">
+                                                            <span>Divers</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/federal/federal-inherit-template/federal-faq.htm">
+                                        <span>FAQ</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/contact/contact-inherit-template/contact-feedback.htm">
+                                        <span>Feedback</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/contact/contact-inherit-template/contact-newsletter.htm">
+                                        <span>Newsletter</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                    </ul>
+                </li>
+            
+                <li class="item">
+                    
+                    <a class="l1" href="/fr/index/press.htm">
+                        <span>Presse/Actualité</span>
+                    </a>
+                    <ul class='sub'>
+                        
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/press/press-inherit-template/press-mitteilungen.htm">
+                                        <span>Communiqués de presse</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/press/press-inherit-template/press-mitteilungen/press-mitteilungen-newsletter.htm">
+                                                            <span>Abonnement aux communiqués de presse</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/press/press-inherit-template/press-mitteilungen-aktuelles.htm">
+                                        <span>Actualités</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/home/juridiction/federal-meeting.html?detail=true">
+                                        <span>Séances</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/juridiction/jurisdiction-inherit-template/federal-meeting/federal-meeting-newsletter.htm">
+                                                            <span>Abonnement à la liste des séances</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/press/press-inherit-template/press-mediaplatform.htm">
+                                        <span>Plateforme des médias</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/press/press-inherit-template/press-mediaplatform/federal-mediaplatform-all-meetings.htm">
+                                                            <span>Vidéos des séances publiques</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/press/press-inherit-template/press-mediaplatform/press-mediaplatform-photosmedia.htm">
+                                                            <span>Photos pour les médias</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/index/press/press-inherit-template/press-mediaplatform/press-mediaplatform-video.htm">
+                                                            <span>Vidéos pour les médias</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/press/press-inherit-template/press-accreditation.htm">
+                                        <span>Accréditation</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/home/press/press-accredited-journalist.html">
+                                        <span>Journalistes accrédités</span>
+                                    </a>
+
+                                    
+                                        <ul class='four-level'>
+                                            
+                                                    <li>
+                                                        <a class="l4" href="/fr/home/press/press-accredited-journalist/press-pending-highmedia.html">
+                                                            <span>Causes célèbres en cours</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/home/press/press-accredited-journalist/press-pending-highmedia-pending.html">
+                                                            <span>Demande de cause célèbre en suspens</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/home/press/press-accredited-journalist/press-pending-highmedia-request.html">
+                                                            <span>Demande de traitement d'une affaire comme cause célèbre</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/home/press/press-accredited-journalist/press-accredited-journalist-profile.html">
+                                                            <span>Edition de mon profil</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/home/press/press-accredited-journalist/press-accredited-journalist-urteileneu-xml.html">
+                                                            <span>Nouveautés</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/home/press/press-accredited-journalist/press-mitteilungen-journalisten.html">
+                                                            <span>Communiqués sous embargo</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                                    <li>
+                                                        <a class="l4" href="/fr/home/press/press-accredited-journalist/press-mitteilungen-admin.html">
+                                                            <span>Medienmitteilungen Verwaltung</span>
+                                                        </a>
+                                                    </li>
+                                                
+                                        </ul>
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/press/press-inherit-template/press-kontakt.htm">
+                                        <span>Contact pour les médias</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/press/press-inherit-template/press-reglemente.htm">
+                                        <span>Règlements</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/index/press/press-inherit-template/press-twitter.htm">
+                                        <span>Twitter</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                                <li>
+                                    
+
+                                    <a class="l2" href="/fr/home/press/feed-rss.html">
+                                        <span>Abonnement RSS</span>
+                                    </a>
+
+                                    
+                                </li>
+                            
+                    </ul>
+                </li>
+            
+                    <li class="item item_first new test">
+                        
+                                <a class="l1 mobile-menu" href="/fr/index/federal/federal-inherit-template/gericht-elektronischer-verkehr.htm" target="_top">Communication électronique</a>
+                            
+                        <ul class='sub thematic-sub'>
+                            
+                        </ul>
+                    </li>
+                
+                    <li class="item  new test">
+                        
+                                <a class="l1 mobile-menu" href="/fr/index/federal/federal-inherit-template/insurance-federal-jobs.htm" target="_top">Emplois</a>
+                            
+                        <ul class='sub thematic-sub'>
+                            
+                        </ul>
+                    </li>
+                
+                    <li class="item  new test">
+                        
+                                <a class="l1 mobile-menu" href="/fr/index/contact/contact-inherit-template/contact-adressen-bger.htm" target="_top">Contact</a>
+                            
+                        <ul class='sub thematic-sub'>
+                            
+                                        <li>
+                                            
+
+                                            <a class="l2" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch.htm">
+                                                <span>Visite TF  Lausanne</span>
+                                            </a>
+
+                                            
+                                                <ul class='four-level'>
+                                                    
+                                                            <li>
+                                                                <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch/contact-federal-besuch-anmeldeformular-einzelperson.htm">
+                                                                    <span>Formulaire d'inscription individuelle</span>
+                                                                </a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch/contact-federal-besuch-anmeldeformular.htm">
+                                                                    <span>Formulaire d'inscription pour groupes</span>
+                                                                </a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch/contact-federal-besuch-zufahrt.htm">
+                                                                    <span>Accès</span>
+                                                                </a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-federal-besuch/contact-federal-virtual-tour.htm">
+                                                                    <span>Visite virtuelle Lausanne</span>
+                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+
+                                            <a class="l2" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch.htm">
+                                                <span>Visite TF Lucerne</span>
+                                            </a>
+
+                                            
+                                                <ul class='four-level'>
+                                                    
+                                                            <li>
+                                                                <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch/contact-insurance-besuch-anmeldeformular-einzelperson.htm">
+                                                                    <span>Formulaire d'inscription individuelle</span>
+                                                                </a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch/contact-insurance-besuch-anmeldeformular.htm">
+                                                                    <span>Formulaire d'inscription pour groupes</span>
+                                                                </a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch/contact-insurance-besuch-zufahrt.htm">
+                                                                    <span>Accès</span>
+                                                                </a>
+                                                            </li>
+                                                        
+                                                            <li>
+                                                                <a class="l4" href="/fr/index/contact/contact-inherit-template/contact-insurance-besuch/contact-insurance-virtual-tour.htm">
+                                                                    <span>Visite virtuelle Lucerne</span>
+                                                                </a>
+                                                            </li>
+                                                        
+                                                </ul>
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+
+                                            <a class="l2" href="/fr/index/contact/contact-inherit-template/contact-feedback.htm">
+                                                <span>Feedback</span>
+                                            </a>
+
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+
+                                            <a class="l2" href="/fr/index/contact/contact-inherit-template/contact-newsletter.htm">
+                                                <span>Newsletter</span>
+                                            </a>
+
+                                            
+                                        </li>
+                                    
+                        </ul>
+                    </li>
+                
+                    <li class="item  new test">
+                        
+                                <a class="l1 mobile-menu" href="/fr/index/help/help-inherit-template/help-hilfe.htm" target="_top">Aide</a>
+                            
+                        <ul class='sub thematic-sub'>
+                            
+                                        <li>
+                                            
+
+                                            <a class="l2" href="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-suche-asp.htm">
+                                                <span>Recherche</span>
+                                            </a>
+
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+
+                                            <a class="l2" href="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-sitemap-recht.htm">
+                                                <span>Plan du site Jurisprudence</span>
+                                            </a>
+
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+
+                                            <a class="l2" href="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-sitemap-bger.htm">
+                                                <span>Plan du site Tribunal fédéral</span>
+                                            </a>
+
+                                            
+                                        </li>
+                                    
+                                        <li>
+                                            
+
+                                            <a class="l2" href="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-sitemap-presse.htm">
+                                                <span>Plan du site Presse/Actualité</span>
+                                            </a>
+
+                                            
+                                        </li>
+                                    
+                        </ul>
+                    </li>
+                
+        </div>
+    </ul>
+</nav><div class="clear"></div><div role="navigation" class='nav-nav' id='tematic-menu'>
+    <ul class="block thematic-block">
+        
+            <li class="item item_first">
+                <a href="/fr/index/federal/federal-inherit-template/gericht-elektronischer-verkehr.htm" target="_top">Communication électronique</a>
+
+                <ul class='sub thematic-sub'>
+                    
+                </ul>
+            </li>
+        
+            <li class="item ">
+                <a href="/fr/index/federal/federal-inherit-template/insurance-federal-jobs.htm" target="_top">Emplois</a>
+
+                <ul class='sub thematic-sub'>
+                    
+                </ul>
+            </li>
+        
+            <li class="item ">
+                <a href="/fr/index/contact/contact-inherit-template/contact-adressen-bger.htm" target="_top">Contact</a>
+
+                <ul class='sub thematic-sub'>
+                    
+                </ul>
+            </li>
+        
+            <li class="item ">
+                <a href="/fr/index/help/help-inherit-template/help-hilfe.htm" target="_top">Aide</a>
+
+                <ul class='sub thematic-sub'>
+                    
+                            <li>
+                                
+
+                                <a class="l2" href="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-suche-asp.htm">
+                                    <span>Recherche</span>
+                                </a>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+
+                                <a class="l2" href="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-sitemap-recht.htm">
+                                    <span>Plan du site Jurisprudence</span>
+                                </a>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+
+                                <a class="l2" href="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-sitemap-bger.htm">
+                                    <span>Plan du site Tribunal fédéral</span>
+                                </a>
+
+                                
+                            </li>
+                        
+                            <li>
+                                
+
+                                <a class="l2" href="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-sitemap-presse.htm">
+                                    <span>Plan du site Presse/Actualité</span>
+                                </a>
+
+                                
+                            </li>
+                        
+                </ul>
+            </li>
+        
+    </ul>
+</div><div class="clear"></div><p id="change-lang" class="invisible">Changer la langue</p>
+<ul class="block block_last language-block" aria-labelledby="change-lang">
+    
+            <li class="item item_first">
+                <p id="change-lang_fr_to_de">
+                    <a href="/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht/jurisdiction-recht-leitentscheide1954.htm" target="_top" title="Deutsch" lang="de">
+                        <span class='deutsch-lang-i'>D</span>
+                    </a>
+                </p>
+            </li>
+
+            <li class="item">
+                <p id="change-lang_fr_to_it"">
+                    <a href="/it/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht/jurisdiction-recht-leitentscheide1954.htm" target="_top" title="Italiano" lang="it">
+                        <span class='italiano-lang-i'>I</span>
+                    </a>
+                </p>
+            </li>
+        
+</ul><div class="clear"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="unit size1of3 lastUnit">
+                            <div class="mod modSearch">
+                                <div class="inner">
+                                    <form method="post" name="searchForm" action="/fr/index/help/help-inherit-template/help-hilfe/help-hilfe-suche-asp.htm" class="simplesearchform" >
+    <input type="hidden" name="jcrMethodToCall" value="get" />
+    <input type="hidden" name="src_originSiteKey" value="bger"/>
+    
+<input onblur="if(this.value=='')this.value='Recherche';" onfocus="if(this.value=='Recherche')this.value='';" name="src_terms[0].term" id="search" placeholder="Recherche" title="Recherche" type="text" class="text"  value=""/>
+<input type="hidden" name="src_terms[0].applyFilter" value="true"/>
+
+    <input type="hidden" name="src_terms[0].match" value="all_words"/>
+
+    <input type="hidden" name="src_terms[0].fields.siteContent" value="true"/>
+
+    <input type="hidden" name="src_terms[0].fields.tags" value="true"/>
+
+    <input type="hidden" name="src_terms[0].fields.files" value="true"/>
+<input type="hidden" name="src_sites.values" value="bger"/>
+    <input type="hidden" name="src_sitesForReferences.values" value="systemsite"/>
+<input type="hidden" name="src_languages.values" value="fr"/>
+        <button class="submit" type="submit" value="" title="Activer la recherche" >Activer la recherche</button>
+
+    
+</form><br class="clear"/><div class="clear"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="line">
+                        <nav role="navigation" aria-label="Navigation principale" id='top-menu'>
+
+
+    <div class="mod modNavMain">
+        <div class="inner" >
+            <ul>
+                
+                    <li class="item first active">
+                        <a href="/fr/index/juridiction.htm" target="_parent" >
+                Jurisprudence
+        </a>
+                    </li>
+                
+                    <li class="item">
+                        <a href="/fr/index/federal.htm" target="_parent" >
+                Tribunal fédéral
+        </a>
+                    </li>
+                
+                    <li class="item">
+                        <a href="/fr/index/press.htm" target="_parent" >
+                Presse/Actualité
+        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav><div class="clear"></div><div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+
+        </header>
+    </div>
+    <form class='form-search'>
+        <p class='form-search_p'>
+            <input type="text" class='form-search__field' placeholder="Recherche"  title="Recherche" value='' id='form-search__field'>
+        </p>
+    </form>
+    <div class="page">
+        <div class='absolute'></div>
+        <div class="preloader">&nbsp;</div>
+        <div class="body">
+            <div class="line overflow">
+                <div class="unit size1of3">
+                    <nav role="navigation" aria-label="Navigation secondaire" id='left-menu'>
+    <!-- h2 class="invisible">Navigation secondaire</h2 -->
+    <div class="mod modNavSub left-navi">
+        <div class="inner">
+            <ul>
+                
+                        <li class="item">
+                            
+                                    <a class="l1 active" href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht.htm" >
+                                        <span>Jurisprudence (gratuit)</span>
+                                    </a>
+                                
+                        </li>
+                        
+                                <ul class="sub">
+                                    
+                                            <li>
+                                                
+                                                        <a class="l2 active" href="/ext/eurospider/live/fr/php/clir/http/start_fr.html">
+                                                            <span>ATF et arrêts CrEDH</span>
+                                                        </a>
+                                                    
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                        <a class="l2 " href="/ext/eurospider/live/fr/php/aza/http/index_aza.php?lang=fr&mode=index&search=false">
+                                                            <span>Liste des nouveautés</span>
+                                                        </a>
+                                                    
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                        <a class="l2 " href="/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr">
+                                                            <span>Autres arrêts dès 2000</span>
+                                                        </a>
+                                                    
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                        <a class="l2 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht/jurisdiction-recht-urteilsbestellung.htm">
+                                                            <span>Commande d'un arrêt</span>
+                                                        </a>
+                                                    
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                        <a class="l2 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht/juridiction-digitalisation.htm">
+                                                            <span>Numérotation des dossiers</span>
+                                                        </a>
+                                                    
+                                            </li>
+                                        
+                                            <li>
+                                                
+                                                        <a class="l2 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht/jurisdiction-recht-suchstrategie1954.htm">
+                                                            <span>Stratégie de recherche</span>
+                                                        </a>
+                                                    
+                                            </li>
+                                        
+                                </ul>
+                            
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr" >
+                                        <span>Arrêts principaux (ATF)</span>
+                                    </a>
+                                
+                        </li>
+                        
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/ext/eurospider/live/fr/php/login/http/main.php?lang=fr" >
+                                        <span>Recherche avancée pour abonnés</span>
+                                    </a>
+                                
+                        </li>
+                        
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-abonnemente.htm" >
+                                        <span>Abonnements/Commandes</span>
+                                    </a>
+                                
+                        </li>
+                        
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/fr/index/juridiction/jurisdiction-inherit-template/federal-meeting.htm" >
+                                        <span>Séances</span>
+                                    </a>
+                                
+                        </li>
+                        
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-jurivoc-home.htm" >
+                                        <span>Jurivoc - Aide à la traduction</span>
+                                    </a>
+                                
+                        </li>
+                        
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-zitierregeln.htm" >
+                                        <span>Règles de citation</span>
+                                    </a>
+                                
+                        </li>
+                        
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-elektronische-beschwerde.htm" >
+                                        <span>Recours électronique</span>
+                                    </a>
+                                
+                        </li>
+                        
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-echange-ecritures.htm" >
+                                        <span>Echange d'écritures et observations volontaires</span>
+                                    </a>
+                                
+                        </li>
+                        
+                        <li class="item">
+                            
+                                    <a class="l1 " href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-certifications.htm" >
+                                        <span>Attestations de force de chose jugée / attestations</span>
+                                    </a>
+                                
+                        </li>
+                        
+            </ul>
+        </div>
+    </div>
+</nav><div class="clear"></div><div class="clear"></div>
+
+                </div>
+                <main role="main" id="maincontent" class="unit lastUnit size2of3 grid_left esigates" tabindex="-1">
+                    <a class="hiddenanchor" name="content" aria-hidden="true"></a>
+                    
+	  <div class="eit">
+
+      <div id="ns4_info" class="warning_msg">
+         Avis important:
+         <br/>
+         Les versions anciennes du navigateur Netscape affichent cette page sans &eacute;l&eacute;ments graphiques. La page conserve cependant sa fonctionnalit&eacute;. Si vous utilisez fr&eacute;quemment cette page, nous vous recommandons l&#039;installation d&#039;un navigateur plus r&eacute;cent.
+      </div>
+
+      <div class="middle">
+         <div align="left" style="float: left">
+             <a class="noprint" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/start_fr.html" title="Retour à la page d'accueil">Retour à la page d'accueil</a>
+            <a class="noprint" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&type=show_document&highlight_docid=atf://108-IV-25:fr&print=yes" target="_blank">Imprimer</a>
+         </div>
+         <div align="right">
+                           <a class="noprint" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?highlight_docid=atf%3A%2F%2F108-IV-25%3Afr&amp;lang=fr&amp;type=show_document&amp;zoom=YES&amp;" title="Ecriture agrandie">Ecriture agrandie</a>
+                     </div>
+      </div>  
+
+
+ 
+<div class="main">
+   <div class="left">
+      &nbsp;
+   </div>
+   <div class="middle">
+
+      
+                  
+<div id="highlight_content" class="box">
+   <div class="box_top_line"></div>
+   <div class="box_top_2ndline"></div>
+   <div class="content">
+      
+  <a name="idp305792"></a><div class="big bold">Chapeau</div>
+<br>108 IV 25<br><br><br><div class="paraatf">8. Auszug aus dem Urteil des Kassationshofes vom 25. März 1982 i.S. F. gegen Staatsanwaltschaft des Kantons Zürich (Nichtigkeitsbeschwerde)</div>
+<div class="paraatf"></div>
+  <a name="idp307216"></a>
+  <a name="idp312944"></a><br><div id="regeste" lang="fr">
+<div class="big bold">Regeste</div>
+<br><div class="paraatf"><span class="artref">Art. 251 CP</span>.  <div class="paratf">Les livres et pièces de comptabilité commerciale doivent être exacts non seulement sur le plan formel, mais également du point de vue matériel (<span class="artref">Art. 957  CO</span>). Celui qui, en usant de traites et de chèques de complaisance, parvient, les jours de contrôle, à transformer un compte bancaire débiteur en un compte créditeur et qui de la sorte fait apparaître dans la comptabilité un état de fortune ne correspondant pas à la réalité, se rend coupable de faux dans les titres. </div>
+</div>
+</div>
+  <a name="idp318656"></a>
+  <br><div>
+<a name="idp324320"></a><span class="big bold" id="erwaegungen">Considérants</span> <span class="small">à partir de page 26</span>
+</div>
+<br><div class="paraatf">
+    <a name="page26"></a><div class="center pagebreak">BGE 108 IV 25 S. 26</div>
+   </div>
+<div class="paraatf">Aus den Erwägungen:</div>
+<br><div class="paraatf">
+    <a name="idp326480"></a><span class="bold" id="consideration_1.">1. </span>c) Nach herrschender Lehre und Rechtsprechung stellt die kaufmännische Buchhaltung mit ihren Bestandteilen, also auch den vom Beschwerdeführer und St. verwendeten Buchungsbelegen, eine Urkunde gemäss <span class="artref">Art. 110 Ziff. 5 und <artref id="CH/311.0/251" type="start"/>Art. 251 StGB</span><artref id="CH/311.0/110/5" type="end"/> dar (<a class="bgeref_id" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F103-IV-176%3Afr&amp;number_of_ranks=0&amp;azaclir=clir#page176">BGE 103 IV 176</a> f. mit Verweisungen; vgl. NIKLAUS SCHMID, Fragen der Falschbeurkundung bei Wirtschaftsdelikten, insbesondere im Zusammenhang mit der kaufmännischen Buchführung, in ZStR 95/1978, S. 280 ff.; BODMER/KLEINER/LUTZ, Kommentar zum Schweizerischen Bankgesetz, Zürich 1976, zu Art. 6). Hinsichtlich der Aussagekraft des vom Beschwerdeführer und Mitangeschuldigten auf die Kontrollzeit ausgewiesenen Kontosaldos ist wesentlich, dass die kaufmännische Buchführung und ihre Bestandteile (Belege, Bücher, Buchhaltungsauszüge über Einzelkonten, Bilanzen oder Erfolgsrechnungen, vgl. dazu SCHMID, a.a.O., S. 281 ff.) als Absichtsurkunden kraft Gesetzes (<span class="artref">Art. 957 OR</span>) bestimmt und geeignet sind, Tatsachen von rechtlicher Bedeutung bzw. die in ihr enthaltenen Tatsachen zu beweisen, wobei für ihren Urkundencharakter der mit der Buchführung verfolgte Zweck keine Rolle spielt (<a class="bgeref_id" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F106-IV-38%3Afr&amp;number_of_ranks=0&amp;azaclir=clir#page39">BGE 106 IV 39</a> E. 1a; <a class="bgeref_id" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F103-IV-176%3Afr&amp;number_of_ranks=0&amp;azaclir=clir#page177">BGE 103 IV 177</a> b; <span class="bgeref_err">BGE 79 IV 163</span>). Demzufolge ist unerheblich, ob die jeweiligen Kontosaldi bloss der bankinternen Überschreitungskontrolle unterstellt waren oder durch die sogenannte Visabuchhaltung auf ihren Wahrheitsgehalt hätten überprüft werden können. Da überdies die Buchhaltung gemäss ihrer Zielsetzung von <span class="artref">Art. 957 OR</span> die der tatsächlichen <a name="page27"></a><div class="center pagebreak">BGE 108 IV 25 S. 27</div>wirtschaftlichen Lage entsprechende Vermögenssituation wiederzugeben hat, vermag ihre bloss formale Richtigkeit nicht zu genügen; Buchhaltung und Belege müssen auch materiell richtig sein (SCHMID, a.a.O., S. 291). Der Beschwerdeführer und der Leiter der Bankfiliale X. brachten indessen das Konto der Y. AG auf die Kontrollstichtage vom 1. November 1976, 15. November 1976 und  15. Januar 1977 hin durch Check- und Wechselreiterei entgegen seinem tatsächlichen Bestand vom Soll auf ein Haben, was aber nichts anderes als eine materiell unrichtige Buchung, mithin eine Falschbeurkundung darstellt. Die Berufung des Beschwerdeführers auf das sogenannte "window dressing" erscheint deshalb unangebracht, weil dieses - wie die Bezeichnung besagt  (Schaufenster-dekorieren) - nur die äussere Optik einer Bilanz, nicht aber, wie vorliegend, den Wert bzw. die Substanz des bilanzierten Vermögens betreffen kann (ALBISETTI/BODMER/RUTSCHI, Handbuch des Bank-, Geld- und Börsenwesens der Schweiz, 1964, S. 629).</div>
+<div class="paraatf">Indem schliesslich Soll- und Habensaldi Tatsachen von rechtlicher Bedeutung darstellen, zu deren Beweis das Konto der Y. AG als Bestandteil der Buchhaltung bestimmt und geeignet war, und diese Urkunde einen der Wirklichkeit widersprechenden Kontostand aufzeigte, erweist sich unter Einbezug der unbestrittenen subjektiven Tatbestandselemente (Täuschungs- und Vorteilsabsicht) die von der Vorinstanz getroffene rechtliche Qualifikation als Urkundenfälschung bzw. Gehilfenschaft dazu als in jeder Hinsicht richtig;  Bundesrecht ist nicht verletzt.</div>
+  <br><div>
+<a name="idp346720"></a><span class="big bold" id="dispositiv">Dispositif</span>
+</div>
+<br><div class="paraatf">Demnach erkennt das Bundesgericht:</div>
+<div class="paraatf">Die Nichtigkeitsbeschwerde wird abgewiesen.</div>
+ 
+   </div>
+   <div class="box_bottom_2ndline"></div>
+   <div class="box_bottom_line"></div>
+</div>
+       
+   </div>
+   <div class="right">
+   
+                
+                           
+
+
+<div id="highlight_boxes">
+   <div id="highlight_index" class="box">
+      <div class="box_top_line"></div>
+      <div class="box_top_2ndline"></div>
+      <div class="content">
+         <h3 class="bold small">
+            contenu
+         </h3>
+         <p>
+                           document entier
+                        <br/>
+            regeste:
+                           <a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F108-IV-25%3Ade%3Aregeste&amp;number_of_ranks=0&amp;azaclir=clir">allemand</a>
+                                       <a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F108-IV-25%3Afr%3Aregeste&amp;number_of_ranks=0&amp;azaclir=clir">fran&ccedil;ais</a>
+                                       <a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F108-IV-25%3Ait%3Aregeste&amp;number_of_ranks=0&amp;azaclir=clir">italien</a>
+                     </p>
+
+                  
+                           <p>
+            Considérants
+                           <a href="#idp326480">1</a>
+                     </p>
+         
+                           <p>
+               <a href="#idp346720">Dispositif</a> 
+         </p>
+         
+      </div>
+      <div class="box_bottom_2ndline"></div>
+      <div class="box_bottom_line"></div>
+   </div>
+
+
+
+               
+      <div id="highlight_references" class="box">
+      <div class="box_top_line"></div>
+      <div class="box_top_2ndline"></div>
+      <div class="content">
+         <h3 class="bold small">
+            r&eacute;f&eacute;rences
+         </h3>
+                  <p>
+            ATF:
+                                                                                                         <a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F103-IV-176%3Afr&amp;number_of_ranks=0&amp;azaclir=clir#page176">103&nbsp;IV&nbsp;176</a>,
+                                                                                                            <a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F106-IV-38%3Afr&amp;number_of_ranks=0&amp;azaclir=clir#page39">106&nbsp;IV&nbsp;39</a>,
+                                                                                                            <a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=show_document&amp;page=1&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;query_words=&amp;part=all&amp;de_fr=&amp;de_it=&amp;fr_de=&amp;fr_it=&amp;it_de=&amp;it_fr=&amp;orig=&amp;translation=&amp;rank=0&amp;highlight_docid=atf%3A%2F%2F103-IV-176%3Afr&amp;number_of_ranks=0&amp;azaclir=clir#page177">103&nbsp;IV&nbsp;177</a>
+                                    </p>
+                           <p>
+            Article:
+                                          Art. 957  CO,
+                                          Art. 251 CP,
+                                          Art. 110 Ziff. 5 und <artref id="CH/311.0/251" type="start"/>Art. 251 StGB<artref id="CH/311.0/251" type="end"/>
+                     </p>
+               </div>
+      <div class="box_bottom_2ndline"></div>
+      <div class="box_bottom_line"></div>
+   </div>
+   
+
+
+   <div id="highlight_navigation" class="box">
+      <div class="box_top_line"></div>
+      <div class="box_top_2ndline"></div>
+      <div class="content">
+         <h3 class="bold small">
+            navigation
+         </h3>
+         <p>
+            <a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=simple_query"
+               title="">Nouvelle recherche</a>
+         </p>
+                  <p>
+            <a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&amp;type=simple_similar_documents&amp;from_date=&amp;to_date=&amp;from_year=1954&amp;to_year=2017&amp;sort=relevance&amp;insertion_date=&amp;from_date_push=&amp;top_subcollection_clir=bge&amp;docid=atf%3A%2F%2F108-IV-25&amp;azaclir=clir">recherche de d&eacute;cisions principales similaires</a>
+         </p>
+      </div>
+      <div class="box_bottom_2ndline"></div>
+      <div class="box_bottom_line"></div>
+   </div>
+</div>
+               
+   </div>
+</div>
+<div class="bottom">
+   <div class="left">
+      &nbsp;
+   </div>
+   <div class="middle">
+      &nbsp;
+   </div>
+   <div class="right">
+            <a class="noprint" href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&type=show_document&highlight_docid=atf://108-IV-25:fr&print=yes" target="_blank">Imprimer</a>
+      <a class="noprint" href="#">remonter</a>
+   </div>
+</div>
+
+    </div>
+   
+                    <div class="retour-paragraf">
+                        <a class='retour' href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht.htm" title="Jurisprudence (gratuit)">Back</a>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+    
+</div>
+<div class='define-admin'>false</div>
+
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/lib/jquery-3.1.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/jquery.smoothZoom.min.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/data-table.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/index.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/form.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        var lang = getLang();
+        var title = document.title;
+        var titleText;
+        if (lang === 'de') {
+            titleText = 'Schweizerisches Bundesgericht';
+        } else if (lang === 'fr') {
+            titleText = 'Tribunal fédéral';
+        } else if (lang === 'it') {
+            titleText = 'Tribunale Federale';
+        }
+        document.title = titleText + ' - ' + title;
+    })
+</script>
+<!-- Piwik -->
+
+<script type="text/javascript">
+    var _paq = _paq || [];
+    // tracker methods like "setCustomDimension" should be called before "trackPageView"
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="https://www.bger.ch/analytics/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<!-- End Piwik Code -->
+
+      <script type="text/javascript" src="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/javascript/eit.js"></script>
+      
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/script.js"></script>
+</body>
+</html>

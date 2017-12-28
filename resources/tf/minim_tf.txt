@@ -1,0 +1,4 @@
+https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?type=show_document&highlight_docid=atf%3A%2F%2F143-I-1%3Afr
+
+type=show_document
+highlight_docid=<id>

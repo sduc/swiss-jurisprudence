@@ -1,0 +1,450 @@
+<p align="left"><font size="+2">Liste des arrêts du Tribunal fédéral (ATF) et de la Cour européenne des droits de l'homme (CrEDH)</font></p>
+<p align="left">Cliquez sur la rubrique désirée dans la colonne de l'année.</p>
+<table style="border: 0px; border-collapse: collapse;"><tr style="border: 0px; border-collapse: collapse;"><td style="border: 0px; border-collapse: collapse;">
+<table border="1" cellpadding="7" cellspacing="0">
+<tr>
+<td bgcolor="#d4d4d4" align="center" rowspan="2">Années<br><br><b>2010 - 2017</b>
+</td>
+<td valign="top">2010<br>
+         (136)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=136&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=136&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=136&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=136&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=136&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2011<br>
+         (137)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=137&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=137&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=137&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=137&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=137&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2012<br>
+         (138)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=138&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=138&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=138&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=138&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=138&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2013<br>
+         (139)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=139&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=139&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=139&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=139&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=139&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2014<br>
+         (140)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=140&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=140&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=140&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=140&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=140&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2015<br>
+         (141)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=141&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=141&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=141&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=141&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=141&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2016<br>
+         (142)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=142&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=142&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=142&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=142&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=142&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2017<br>
+         (143)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=143&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=143&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=143&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=143&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=143&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+</tr>
+<tr>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2010">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2011">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2012">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2013">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2014">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2015">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2016">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2017">CrEDH</a> 
+      </td>
+</tr>
+</table>
+<br><table border="1" cellpadding="7" cellspacing="0">
+<tr>
+<td bgcolor="#d4d4d4" align="center" rowspan="2">Années<br><br><b>2000 - 2009</b>
+</td>
+<td valign="top">2000<br>
+         (126)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=126&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=126&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=126&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=126&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=126&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2001<br>
+         (127)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=127&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=127&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=127&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=127&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=127&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2002<br>
+         (128)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=128&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=128&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=128&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=128&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=128&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2003<br>
+         (129)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=129&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=129&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=129&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=129&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=129&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2004<br>
+         (130)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=130&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=130&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=130&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=130&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=130&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2005<br>
+         (131)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=131&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=131&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=131&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=131&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=131&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2006<br>
+         (132)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=132&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=132&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=132&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=132&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=132&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2007<br>
+         (133)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=133&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=133&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=133&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=133&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=133&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2008<br>
+         (134)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=134&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=134&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=134&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=134&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=134&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">2009<br>
+         (135)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=135&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=135&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=135&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=135&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=135&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+</tr>
+<tr>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2000">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2001">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2002">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2003">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2004">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2005">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2006">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2007">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2008">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_2009">CrEDH</a> 
+      </td>
+</tr>
+</table>
+<br><table border="1" cellpadding="7" cellspacing="0">
+<tr>
+<td bgcolor="#d4d4d4" align="center" rowspan="2">Années<br><br><b>1990 - 1999</b>
+</td>
+<td valign="top">1990<br>
+         (116)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=116&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=116&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=116&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=116&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=116&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1991<br>
+         (117)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=117&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=117&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=117&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=117&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=117&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1992<br>
+         (118)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=118&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=118&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=118&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=118&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=118&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1993<br>
+         (119)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=119&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=119&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=119&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=119&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=119&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1994<br>
+         (120)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=120&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=120&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=120&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=120&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=120&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1995<br>
+         (121)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=121&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=121&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=121&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=121&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=121&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1996<br>
+         (122)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=122&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=122&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=122&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=122&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=122&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1997<br>
+         (123)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=123&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=123&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=123&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=123&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=123&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1998<br>
+         (124)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=124&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=124&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=124&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=124&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=124&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1999<br>
+         (125)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=125&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=125&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=125&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=125&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=125&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+</tr>
+<tr>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1990">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1991">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1992">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1993">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1994">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1995">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1996">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1997">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1998">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1999">CrEDH</a> 
+      </td>
+</tr>
+</table>
+<br><table border="1" cellpadding="7" cellspacing="0">
+<tr>
+<td bgcolor="#d4d4d4" align="center" rowspan="2">Années<br><br><b>1980 - 1989</b>
+</td>
+<td valign="top">1980<br>
+         (106)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=106&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=106&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=106&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=106&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=106&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1981<br>
+         (107)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=107&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=107&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=107&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=107&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=107&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1982<br>
+         (108)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=108&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=108&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=108&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=108&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=108&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1983<br>
+         (109)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=109&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=109&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=109&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=109&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=109&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1984<br>
+         (110)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=110&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=110&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=110&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=110&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=110&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1985<br>
+         (111)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=111&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=111&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=111&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=111&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=111&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1986<br>
+         (112)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=112&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=112&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=112&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=112&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=112&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1987<br>
+         (113)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=113&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=113&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=113&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=113&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=113&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1988<br>
+         (114)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=114&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=114&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=114&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=114&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=114&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1989<br>
+         (115)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=115&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=115&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=115&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=115&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=115&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+</tr>
+<tr>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1983">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1984">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1986">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1987">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1988">CrEDH</a> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+</tr>
+</table>
+<br><table border="1" cellpadding="7" cellspacing="0">
+<tr>
+<td bgcolor="#d4d4d4" align="center" rowspan="2">Années<br><br><b>1970 - 1979</b>
+</td>
+<td valign="top">1970<br>
+         (96)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=96&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=96&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=96&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=96&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=96&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1971<br>
+         (97)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=97&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=97&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=97&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=97&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=97&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1972<br>
+         (98)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=98&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=98&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=98&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=98&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=98&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1973<br>
+         (99)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=99&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=99&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=99&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=99&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=99&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1974<br>
+         (100)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=100&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=100&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=100&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=100&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=100&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1975<br>
+         (101)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=101&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=101&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=101&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=101&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=101&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1976<br>
+         (102)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=102&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=102&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=102&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=102&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=102&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1977<br>
+         (103)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=103&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=103&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=103&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=103&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=103&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1978<br>
+         (104)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=104&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=104&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=104&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=104&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=104&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+<td valign="top">1979<br>
+         (105)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=105&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=105&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=105&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=105&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=105&amp;volume=V&amp;lang=fr&amp;zoom=&amp;system=clir">V</a><br>
+</td>
+</tr>
+<tr>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;"> 
+      </td>
+<td valign="top" style="border-style: solid;">
+<a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr#year_1979">CrEDH</a> 
+      </td>
+</tr>
+</table>
+<br><table border="1" cellpadding="7" cellspacing="0">
+<tr>
+<td bgcolor="#d4d4d4" align="center" rowspan="2">Années<br><br><b>1960 - 1969</b>
+</td>
+<td valign="top">1960<br>
+         (86)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=86&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=86&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=86&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=86&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1961<br>
+         (87)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=87&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=87&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=87&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=87&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1962<br>
+         (88)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=88&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=88&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=88&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=88&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1963<br>
+         (89)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=89&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=89&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=89&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=89&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1964<br>
+         (90)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=90&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=90&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=90&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=90&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1965<br>
+         (91)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=91&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=91&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=91&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=91&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1966<br>
+         (92)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=92&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=92&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=92&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=92&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1967<br>
+         (93)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=93&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=93&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=93&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=93&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1968<br>
+         (94)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=94&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=94&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=94&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=94&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1969<br>
+         (95)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=95&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=95&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=95&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=95&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+</tr>
+<tr></tr>
+</table>
+<br><table border="1" cellpadding="7" cellspacing="0">
+<tr>
+<td bgcolor="#d4d4d4" align="center" rowspan="2">Années<br><br><b>1954 - 1959</b>
+</td>
+<td valign="top">1954<br>
+         (80)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=80&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=80&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=80&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=80&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1955<br>
+         (81)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=81&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=81&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=81&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=81&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1956<br>
+         (82)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=82&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=82&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=82&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=82&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1957<br>
+         (83)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=83&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=83&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=83&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=83&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1958<br>
+         (84)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=84&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=84&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=84&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=84&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+<td valign="top">1959<br>
+         (85)<br><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=85&amp;volume=I&amp;lang=fr&amp;zoom=&amp;system=clir">I</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=85&amp;volume=II&amp;lang=fr&amp;zoom=&amp;system=clir">II</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=85&amp;volume=III&amp;lang=fr&amp;zoom=&amp;system=clir">III</a><br><a href="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php?year=85&amp;volume=IV&amp;lang=fr&amp;zoom=&amp;system=clir">IV</a><br>
+</td>
+</tr>
+<tr></tr>
+</table>
+<br>
+</td></tr></table>
+<table style="border: 0px; border-collapse: collapse;"><tr style="border: 0px; border-collapse: collapse;"><td style="border: 0px; border-collapse: collapse;"><table border="1" cellpadding="7" cellspacing="0"><tr>
+<td bgcolor="#d4d4d4" align="center">Années<br><br><b>1875 - 1953<br><br>(1-79)</b>
+</td>
+<td>Les documents sont disponibles sur le site internet de l'université de Berne :<br><a href="http://servat.unibe.ch/dfr/dfr_bge00.html" target="_blank">Pour y accéder cliquez ici.<br></a>
+</td>
+</tr></table></td></tr></table>
+</div>
+                    <div class="retour-paragraf">
+                        <a class='retour' href="/fr/index/juridiction/jurisdiction-inherit-template/jurisdiction-recht.htm" title="Jurisprudence (gratuit)">Back</a>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+    
+</div>
+<div class='define-admin'>false</div>
+
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/lib/jquery-3.1.1.min.js"></script>
+<script src="https://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/owl.carousel.min.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/jquery.smoothZoom.min.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/data-table.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/index.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/form.js"></script>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        var lang = getLang();
+        var title = document.title;
+        var titleText;
+        if (lang === 'de') {
+            titleText = 'Schweizerisches Bundesgericht';
+        } else if (lang === 'fr') {
+            titleText = 'Tribunal fédéral';
+        } else if (lang === 'it') {
+            titleText = 'Tribunale Federale';
+        }
+        document.title = titleText + ' - ' + title;
+    })
+</script>
+<!-- Piwik -->
+
+<script type="text/javascript">
+    var _paq = _paq || [];
+    // tracker methods like "setCustomDimension" should be called before "trackPageView"
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="https://www.bger.ch/analytics/piwik/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+</script>
+<!-- End Piwik Code -->
+<div class="clear"></div>
+<script type="text/javascript" src="/modules/tfl-internet-templates/javascript/script.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=3&cb=185230724';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
