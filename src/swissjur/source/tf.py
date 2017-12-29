@@ -2,6 +2,9 @@ import requests
 import re
 from lxml import html
 from multiprocessing import Pool
+from lxml import etree
+import json
+from swissjur.source import TF_CONF
 
 ATF_INDEX_URL="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php"
 CREDH_LIST_URL="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr"
@@ -10,6 +13,7 @@ ATF_DOC_URL="https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?
 
 TABLE_HREF_XPATH='//table/tr/td/a/@href'
 ORDERED_LIST_HREF_XPATH='//div/ol/li/a/@href'
+DOC_XPATH="//div[@id='highlight_content']"
 
 def get_year_pages_on_list_of_atf_page():
     return filter(
@@ -37,7 +41,12 @@ def get_atf_document_content(atf_id, lang='fr'):
         docid=atf_id,
         lang='fr'
     )
-    return requests.get(atf_link).text
+    node = query_and_xpath(
+        atf_link,
+        DOC_XPATH,
+    )
+    assert len(node) == 1
+    return etree.tostring(node[0])
 
 def get_all_atf_links(n_threads=4):
     if n_threads < 1:

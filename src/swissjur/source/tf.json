@@ -1,0 +1,17 @@
+{
+    "ATF_INDEX": {
+        "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_atf.php",
+        "XPATH": "//table/tr/td/a/@href"
+    },
+    "ATF_DOC": {
+        "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index.php?lang=fr&type=show_document&highlight_docid=atf://{docid}:{lang}&print=yes",
+        "XPATH": "//div[@id='highlight_content']"
+    },
+    "CREDH_INDEX": {
+        "url": "https://www.bger.ch/ext/eurospider/live/fr/php/clir/http/index_cedh.php?lang=fr",
+        "XPATH": "//table/tr/td/a/@href"
+    },
+    "ATF_YEAR_PAGE": {
+        "XPATH": "//div/ol/li/a/@href"
+    }
+}
