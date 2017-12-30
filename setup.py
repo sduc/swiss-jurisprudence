@@ -2,6 +2,8 @@ from setuptools import setup
 
 requirements = [
     # package requirements go here
+    'lxml',
+    'requests',
 ]
 
 setup(
@@ -11,10 +13,10 @@ setup(
     author="Sebastien Duc",
     author_email='sebastien.sduc@gmail.com',
     url='https://github.com/sduc/swiss-jurisprudence',
-    packages=['swiss-jurisprudence'],
+    packages=['swissjur'],
     entry_points={
         'console_scripts': [
-            'swiss-jurisprudence=swiss-jurisprudence.cli:cli'
+            'swissjur=swissjur.cli:cli'
         ]
     },
     install_requires=requirements,
