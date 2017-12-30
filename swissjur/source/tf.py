@@ -27,7 +27,7 @@ def get_credh_links():
         TF_CONF['CREDH_INDEX']['XPATH'],
     )[::2] # each link appears twice on the same row
 
-def get_atf_document_content(atf_id, lang='fr'):
+def get_atf_document_content(atf_id, lang='de'):
     node = query_and_xpath(
         TF_CONF['ATF_DOC']['url'].format(
             docid=atf_id,
@@ -37,6 +37,40 @@ def get_atf_document_content(atf_id, lang='fr'):
     )
     assert len(node) == 1
     return etree.tostring(node[0])
+
+def get_atf_document(atf_id, lang='de'):
+    content = get_atf_document_content(atf_id, lang=lang)
+    refs = get_atf_document_refs(content)
+    return {
+        'id': atf_id,
+        'content': content,
+        'refs': refs,
+    }
+
+def get_atf_document_refs(document_content):
+    return get_atf_document_atf_refs(document_content).union( 
+        get_atf_document_art_refs(document_content)
+    )
+
+def get_atf_document_atf_refs(document_content):
+    document_hrefs = html.fromstring(
+        document_content
+    ).xpath(
+        '//a/@href'
+    )
+    return set(map(
+        extract_atf_id,
+        filter(
+            lambda x: x.startswith(
+                "http://relevancy2.bger.ch/php/clir/http/index.php"
+            ),
+            document_hrefs
+        )
+    ))
+
+def get_atf_document_art_refs(document_content):
+    # TODO
+    return set()
 
 def get_all_atf_links(n_threads=4):
     if n_threads < 1:
@@ -54,7 +88,7 @@ def get_all_atf_links(n_threads=4):
     return reduce(list.__add__, links)
 
 def extract_atf_id(link):
-    return re.search('highlight_docid=atf%3A%2F%2F(.*)%3A&', link).group(1)
+    return re.search('highlight_docid=atf%3A%2F%2F(.*)%3A[a-z]*', link).group(1)
 
 def get_all_atf_ids():
     links = get_all_atf_links(n_threads=4)
