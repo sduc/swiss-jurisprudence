@@ -1,0 +1,11 @@
+1. document table:
+with the list of all atf, laws, etc
+
+id, name (eg. ATF_ID, law number), description, content, ...
+
+
+
+2. ref table:
+This table has for an ATF or law (id) all it's references
+
+id, ref_id

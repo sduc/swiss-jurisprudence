@@ -1,0 +1,8 @@
+Idea to store everything in Elasticsearch
+Use logstash to ingest process ATF and law
+
+Simple "google-style" search page
+
+UI
+hoover on laws to see the content
+
