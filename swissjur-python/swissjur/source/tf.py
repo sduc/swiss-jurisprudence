@@ -3,8 +3,8 @@ import re
 from lxml import html
 from multiprocessing import Pool
 from lxml import etree
-import json
 from swissjur.source import TF_CONF
+from functools import reduce
 
 def get_year_pages_on_list_of_atf_page():
     return filter(
@@ -77,8 +77,7 @@ def get_all_atf_links(n_threads=4):
         raise ValueError(
             "Invalid input : n_threads should be > 1, got " + str(n_threads))
     year_pages = get_year_pages_on_list_of_atf_page()
-    
-    links = None
+
     if n_threads > 1:
         p = Pool(n_threads)
         links = p.map(get_atf_link_from_year_page, year_pages)
